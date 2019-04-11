@@ -34,7 +34,7 @@ TCXS2.0
 -----------------------------------
 
 PS3 Obikuni Multi Store Full - V.1.0
-* Baseado na versão 0.7.1 HAN-Toolbox Full
+* Baseado na versão 0.7.1 HAN-Toolbox Full (Ativadores offline)
 * Adicionado Página Youtube para Verificação de Novas Versões
 * Adicionado DEATHSTORE
 * Atualização da TCXS e AlexStore
