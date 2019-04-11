@@ -31,3 +31,13 @@ SALLAYINSTORE
 STUFFBROWSERDH  
 TCXS2.0  
 
+-----------------------------------
+
+PS3 Obikuni Multi Store Full - V.1.0
+* Baseado na versão 0.7.1 HAN-Toolbox Full
+* Adicionado Página Youtube para Verificação de Novas Versões
+* Adicionado DEATHSTORE
+* Atualização da TCXS e AlexStore
+* Reparo de algumas poucas Lojas
+* Modificação de alguns Ícones
+* Pedido de doação para quem tiver um bom coração ^^ Paypal/MercadoPago - arthurfelippe.adv@hotmail.com
