@@ -42,8 +42,8 @@ PS3 Obikuni Multi Store Full - V.1.0
 * Pedido de doação para quem tiver um bom coração ^^ 
 
 
-#DOAÇÕES - DONATIONS
-##Paypal [Clique Aqui](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=arthurfelippe.adv%40hotmail.com&item_name=Help-me+study+%21%21%21+please.&currency_code=BRL&source=url) /MercadoPago - arthurfelippe.adv@hotmail.com
+# DOAÇÕES - DONATIONS
+## Paypal [Clique Aqui](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=arthurfelippe.adv%40hotmail.com&item_name=Help-me+study+%21%21%21+please.&currency_code=BRL&source=url) /MercadoPago - arthurfelippe.adv@hotmail.com
 
 
 
