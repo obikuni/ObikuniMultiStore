@@ -2,7 +2,7 @@ PT BR
 
 
 # ObikuniMultiStore
-### PS3 Obikuni Multi Store Full - V.0
+### PS3 Obikuni Multi Store Full - V.0 BETA
 Versão Inicial sem Ativador offline usando o Hantoolbox original 0.5
 
 ----
@@ -32,7 +32,7 @@ TCXS2.0
 
 -----------------------------------
 
-### PS3 Obikuni Multi Store Full - V.1.0
+### PS3 Obikuni Multi Store Full - V.1.0 CEX/DEX (4.82~4.84)
 * Baseado na versão 0.7.1 HAN-Toolbox Full (Ativadores offline)
 * Adicionado Página Youtube para Verificação de Novas Versões
 * Adicionado DEATHSTORE
