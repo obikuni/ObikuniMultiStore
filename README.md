@@ -40,9 +40,26 @@ TCXS2.0
 * Reparo de algumas poucas Lojas
 * Modificação de alguns Ícones
 * Pedido de doação para quem tiver um bom coração ^^ 
+ 
+
+-----------------------------------
+
+### PS3 Obikuni Multi Store Full - V.1.1 BETA and FullBETA CEX/DEX (4.82~4.84)
+* Nenhum UPDATE de Lojas
+* Ordem dos Menus Modificadas para ativação HAN mais rápido
+* Ordem diferente das Lojas dentro do MultiStore
+* Tamanho Reduzido (ainda com alguns BUGs / Resolvendo aos Poucos)
+* UPDATE Online
+OBS1.: Versão BETA somente para usar para Atualizar a Loja Online
+OBS2.: Antes de Atualizar Online, Certifique-se que ATIVOU O DEBUG PKG.
+OBS3.: Aconselho com o passar do TEMPO, você delete a antiga loja e Instale a nova a cada atualização lançada, assim evita que você fique com arquivos desnecessários no seu PS3.
+OBS4.: Testem e me avisem se o UPDATE Online está Funcionando para Instalar.
+  
   
    
-  
+   
+   
+# Preciso de um Computador - ALGUÉM ????   
 # DOAÇÕES - DONATIONS
 ## Paypal [Clique Aqui](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=arthurfelippe.adv%40hotmail.com&item_name=Help-me+study+%21%21%21+please.&currency_code=BRL&source=url)   
 ## MercadoPago - arthurfelippe.adv@hotmail.com
