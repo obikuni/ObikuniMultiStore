@@ -59,7 +59,9 @@ OBS4.: Testem e me avisem se o UPDATE Online está Funcionando para Instalar.
    
    
    
-# Preciso de um Computador - ALGUÉM ????   
+# Preciso de um Computador - ALGUÉM ????
+![MEUPC](https://i.pinimg.com/564x/00/be/68/00be68de7eb6394c7c2acddd5551d230.jpg)
+é com isso aqui que eu me viro pra fazer as coisas ^^
 # DOAÇÕES - DONATIONS
 ## Paypal [Clique Aqui](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=arthurfelippe.adv%40hotmail.com&item_name=Help-me+study+%21%21%21+please.&currency_code=BRL&source=url)   
 ## MercadoPago - arthurfelippe.adv@hotmail.com
