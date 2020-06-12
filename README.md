@@ -59,9 +59,13 @@ OBS4.: Testem e me avisem se o UPDATE Online está Funcionando para Instalar.
    
    
    
-# Preciso de um Computador - ALGUÉM ????
-![MEUPC](https://i.pinimg.com/564x/00/be/68/00be68de7eb6394c7c2acddd5551d230.jpg)
+# Obrigado a Todos que possuem sentimentos Positivos por mim.
+![Surpreso](https://i.pinimg.com/originals/6b/6e/d0/6b6ed0d2aa289ca1fb536d1d6b056d2c.jpg)
 é com isso aqui que eu me viro pra fazer as coisas ^^
 # DOAÇÕES - DONATIONS
-## Paypal [Clique Aqui](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=arthurfelippe.adv%40hotmail.com&item_name=Help-me+study+%21%21%21+please.&currency_code=BRL&source=url)   
+O MAIS IMPORTANTE.
+ANTES DE DOAR, FALE COMIGO. Se possível nem faça Doações!!! Só converse comigo.
+[WhatsApp](https://api.whatsapp.com/send?phone=5527997931021)
+  
+## Paypal [Clique Aqui](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=arthurfelippe.adv%40hotmail.com&item_name=Help-me+study+%21%21%21+please.&currency_code=BRL&source=url) 
 ## MercadoPago - arthurfelippe.adv@hotmail.com
